@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/api/messages"
+const API = "https://prov.onrender.com/api/messages"
 
 function loadMessages() {
 
