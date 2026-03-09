@@ -1,4 +1,4 @@
-const API = "https://prov.onrender.com/api/messages"
+const API = "https://prova-kgsx.onrender.com/api/messages"
 
 function loadMessages() {
 
